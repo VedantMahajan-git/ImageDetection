@@ -41,6 +41,10 @@ results*.csv
 coco/
 coco128/
 VOC/
+circuit_elements/
+data/
+yolov5_env
+node_modules/
 
 # MATLAB GitIgnore -----------------------------------------------------------------------------------------------------
 *.m~
