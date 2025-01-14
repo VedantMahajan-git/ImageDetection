@@ -28,7 +28,7 @@ seaborn==0.13.2
 setuptools==75.1.0
 six==1.16.0
 sympy==1.13.3
-torch==2.4.1
+torch==2.5.1
 torchvision==0.19.1
 tqdm==4.66.5
 typing_extensions==4.12.2
